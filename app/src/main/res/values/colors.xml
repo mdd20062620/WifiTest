@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="line">#E4E4E4</color>
+    <color name="tab_indicator_text">#DBDBDB</color>
+    <color name="s9">#ff6b5547</color>
+    <color name="title_bar_bg_day">#ffdcd9cf</color>
+    <color name="tab_text_highlight">#ff735646</color>
+    <color name="tab_text_normal">#ff999999</color>
+    <color name="menuTextColor">#E3E3E3</color>
+    <color name="menuBack">#444444</color>
+    <color name="cambridge_blue">#2E98C4</color>
+
+    <color name="colorBase">#A4A4A4</color>
+    <color name="colorBlack">#000000</color>
+    <color name="baseLine">#d1d2d6</color>
+    <color name="transparent_gray">#ec999999</color>
+    <color name="transparent">#00000000</color>
+    <color name="themeColor">#537FFC</color>
+    <color name="buttoncheck">#3b5d81</color>
+    <color name="buttonuncheck">#999999</color>
+    <color name="lightBlue">#8CD3EC</color>
+    <color name="skyBlue">#5d7599</color>
+    <color name="dustyBlue">#6f88ad</color>
+    <color name="popWindowBack">#FAFAFA</color>
+    <color name="hintWindowTitle">#EDEDED</color>
+    <color name="recyclerBack">#F2F2F2</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0101</color>
+    <color name="green">#79D0A5</color>
+    <color name="orange">#FF7C10</color>
+    <color name="yellow">#FDD200</color>
+    <color name="gray">#8E8E8E</color>
+    <color name="darkRed">#B55656</color>
+    <color name="frenchGrey">#737373</color>
+    <color name="font">#ffffff</color>
+    <color name="backgroundColor">#364b67</color>
+    <color name="backgroundBle">#6f88ad</color>
+    <color name="backgroundText">#4d6384</color>
+    <color name="backgroundBorder">#5d7599</color>
+    <color name="activity_bg">#ffe7e7e7</color>
+
+
+</resources>
